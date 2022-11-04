@@ -6,7 +6,7 @@ const App = () => {
   const categories = [
     {
       "id": 1,
-      "title": "Hats",
+      "title": "hats",
       "imageUrl": "https://i.ibb.co/cvpntL1/hats.png"
     },
     {
